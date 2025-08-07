@@ -1,7 +1,7 @@
 # Hi, I'm Devansh (Jazz7-Dev)
 
 🎓 BTech CSE | Semester 5 | Aspiring Full-Stack & DevOps Engineer  
-📫 Contact: [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/devansh-jaiswal-439909295/) • [Email](mailto:jaiswaldebu585@gmail.com)
 
 ---
 
@@ -15,9 +15,12 @@
 ## 📌 Pinned Projects
 | Project              | Description                                                        | Live Demo                                          | Repo                                                         |
 |----------------------|--------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|
-| **fund2player**      | Funding portal for underprivileged athletes (React, Node.js, JWT)  | –                                                  | https://github.com/Jazz7-Dev/fund2player                     |
-| **cineMate**         | Movie recommendation app using TMDB API (React, Tailwind)          | https://client-iota-lyart.vercel.app               | https://github.com/Jazz7-Dev/cineMate                        |
-| **food-delivery-app**| Full-stack food ordering app with authentication & CI/CD           | *(add your demo link)*                             | https://github.com/Jazz7-Dev/food-delivery-app               |
+| **fund2player**      | Funding portal for underprivileged athletes (React, Node.js, JWT)  | fund2player.vercel.app                             | https://github.com/Jazz7-Dev/fund2player    
+
+| **cineMate**         | Movie recommendation app using TMDB API (React, Tailwind)          | https://client-iota-lyart.vercel.app               | https://github.com/Jazz7-Dev/cineMate  
+|
+| **food-delivery-app**| Full-stack food ordering app with authentication & CI/CD         | client-iota-lyart.vercel.app/  | https://github.com/Jazz7-Dev/food-delivery-app   
+
 | **devops-demo**      | Containerized Express app with GitHub Actions & Docker             | –                                                  | https://github.com/Jazz7-Dev/devops-demo                     |
 
 ---
