@@ -13,15 +13,12 @@
 ---
 
 ## 📌 Pinned Projects
-| Project              | Description                                                        | Live Demo                                          | Repo                                                         |
-|----------------------|--------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|
-| **fund2player**      | Funding portal for underprivileged athletes (React, Node.js, JWT)  | fund2player.vercel.app                             | https://github.com/Jazz7-Dev/fund2player    
-
-| **cineMate**         | Movie recommendation app using TMDB API (React, Tailwind)          | https://client-iota-lyart.vercel.app               | https://github.com/Jazz7-Dev/cineMate  
-|
-| **food-delivery-app**| Full-stack food ordering app with authentication & CI/CD         | client-iota-lyart.vercel.app/  | https://github.com/Jazz7-Dev/food-delivery-app   
-
-| **devops-demo**      | Containerized Express app with GitHub Actions & Docker             | –                                                  | https://github.com/Jazz7-Dev/devops-demo                     |
+| Project            | Description                                     | Live Demo                   | Repo                                           |
+|--------------------|--------------------------------------------------|------------------------------|------------------------------------------------|
+| fund2player        | Funding app for underprivileged athletes         | fund2player.vercel.app       | https://github.com/Jazz7-Dev/fund2player       |
+| cineMate           | Movie app using TMDB API & Tailwind              | https://client-iota-lyart.vercel.app | https://github.com/Jazz7-Dev/cineMate  |
+| food-delivery-app  | Full-stack food ordering with Auth & CI/CD       | *(Coming Soon)*              | https://github.com/Jazz7-Dev/food-delivery-app |
+| devops-demo        | Containerized Express with Docker & GitHub Actions | –                            | https://github.com/Jazz7-Dev/devops-demo       |
 
 ---
 
